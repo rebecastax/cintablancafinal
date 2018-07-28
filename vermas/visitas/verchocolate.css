@@ -1,0 +1,76 @@
+
+.imgchoco{
+background-image: url(fondochoco.jpg);
+background-repeat: no-repeat;
+background-size: 100% 100%;
+
+}
+
+.primcontentchoco{
+margin-top: 300px;
+margin-bottom: 500px;
+margin-left: 20%;
+margin-right: 20%;
+padding-bottom: 1%;
+padding-top: 1%;
+
+width: 58%;
+height: 500px;
+}
+
+
+.vertituchoco{
+font-family: Comic Sans MS;
+text-shadow: 5px 5px #212121;
+font-weight: 520;
+float: left;
+font-size: 50px;
+margin-top: 5%;
+margin-left: 2.5%;
+color: #E0E0E0;
+}
+
+.gifchoco{
+margin-right: 1%;
+margin-top: 10%;
+width: 50%;
+height: 70px;
+border-radius: 20%;
+}
+.distc{
+	margin-top: 60px;
+}
+
+.contenedorchoco{
+margin-top: 5px;
+
+padding: .1%;
+margin-left: 18px;
+}
+
+.tituactivchoco{
+text-align: center;;
+color: #FFFFFF;
+font-size: 35px;
+}
+
+.tlistachoco{
+margin-top: 5px;
+width: 1px;
+height: 1px;
+
+}
+
+
+.letraschoco{
+color: #FFFFFF;
+font-weight: 150;
+}
+
+.mapachoco{
+width: 1500px;
+height: 1000px;
+margin-left: 100px;
+margin-top: 0px;
+}
+

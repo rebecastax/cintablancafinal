@@ -1,0 +1,70 @@
+
+
+
+.primcontent{
+margin-top: 130px;
+margin-bottom: 100px;
+margin-left: 20%;
+margin-right: 20%;
+padding-bottom: 1%;
+padding-top: 1%;
+
+width: 58%;
+height: 500px;
+}
+
+
+.vertitu{
+font-family: Comic Sans MS;
+text-shadow: 5px 5px #212121;
+font-weight: 520;
+float: left;
+font-size: 50px;
+margin-top: 5%;
+margin-left: 2.5%;
+color: #FF3D00
+}
+
+.gif{
+margin-right: 1%;
+margin-top: 1%;
+}
+
+
+.contenedor{
+margin-top: 5px;
+
+padding: .1%;
+margin-left: 18px;
+}
+
+.tituactiv{
+text-align: center;;
+color: #01579B;
+font-size: 35px;
+}
+
+.tlista{
+margin-top: 5px;
+width: 1px;
+height: 1px;
+
+}
+
+
+.letras{
+color: #000000;
+font-weight: 150;
+}
+
+.mapa{
+width: 1500px;
+height: 1000px;
+margin-left: 100px;
+margin-top: 0px;
+}
+footer{
+	margin-bottom: 0px;
+	margin-top: 100px;
+}
+
